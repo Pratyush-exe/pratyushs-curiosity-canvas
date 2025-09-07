@@ -28,7 +28,7 @@ const AboutBlock = ({ imageSrc = "/profile-vertical.jpg" }) => {
                 rel="noopener noreferrer"
                 className="flex items-center gap-1 text-blue-600 underline hover:underline"
               >
-                gitHub
+                github
               </a>
               <a
                 href="https://linkedin.com/in/pratyush-patnaik/"
